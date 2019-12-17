@@ -14,6 +14,8 @@ public class ProductController {
 
         System.out.println(Test.test());
         System.out.println(Test.test());
+        System.out.println(Test.test());
+
     }
 
 
